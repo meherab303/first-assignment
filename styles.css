@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.flower-shop-head{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+}
+.head-title{color: #272727;
+    
+    font-size: 80px;
+    font-weight: 800;
+    padding: 10px 20px 20px 30px;
+    width: 708px;
+   
+}
+.head-descrip{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+font-weight: 400;
+display: flex;
+padding:5px 5px 10px 30px ;
+}
+.btn{
+    
+   
+    padding:  20px 43px;
+   
+    gap: 10px;
+    margin-left: 30px;
+    border-radius: 8px;
+background: #E55473;
+}
+.head-img{
+    
+    width: 635px;
+height: 800px;
+ padding: 30px;
+
+}
